@@ -71,17 +71,17 @@ Description: Use long listing format. Shows details like permissions, owner, gro
 (pranav㉿kali)-[~]
 └─$ ls -l
 total 44
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Desktop
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Documents
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 18:51 Downloads
--rw-rw-r-- 1 ananya ananya   29 Jul 20 18:39 hash.txt
--rw-rw-r-- 1 ananya ananya    8 Jul 20 17:36 hellooo.txt
-drwxrwxr-x 2 ananya ananya 4096 Aug 24 15:59 hi
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Music
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Pictures
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Public
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Templates
-drwxr-xr-x 2 ananya ananya 4096 Jul 20 17:34 Videos
+drwxr-xr-x 2 pranav pranav   4096 Jul 20 17:34 Desktop
+drwxr-xr-x 2 pranav pranav 4096 Jul 20 17:34 Documents
+drwxr-xr-x 2 pranav pranav 4096 Jul 20 18:51 Downloads
+-rw-rw-r-- 1 pranav  pranav    29 Jul 20 18:39 hash.txt
+-rw-rw-r-- 1 pranav pranav    8 Jul 20 17:36 hellooo.txt
+drwxrwxr-x 2 pranav pranav 4096 Aug 24 15:59 hi
+drwxr-xr-x 2 pranav  pranav  4096 Jul 20 17:34 Music
+drwxr-xr-x 2 pranav  pranav  4096 Jul 20 17:34 Pictures
+drwxr-xr-x 2 pranav pranav  4096 Jul 20 17:34 Public
+drwxr-xr-x 2 pranav pranav  4096 Jul 20 17:34 Templates
+drwxr-xr-x 2 pranav  pranav  4096 Jul 20 17:34 Videos
 
 man ls -m
 
